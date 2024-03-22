@@ -1,3 +1,3 @@
-cd Client
-npm i -f
-npm run dev 
+cd Client \n
+npm i -f \n
+npm run dev \n 
